@@ -5,6 +5,67 @@
         <option name="PROJECT_PROFILE" />
         <version value="1.0" />
       </component>
+      <component name="JavaScriptLibraryMappings">
+        <includedPredefinedLibrary name="ECMAScript 6" />
+      </component>
+      <component name="JavaScriptSettings">
+        <option name="languageLevel" value="ES6" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Control flow issuesJavaScript</id>
+              </State>
+              <State>
+                <id>Internationalization issues</id>
+              </State>
+              <State>
+                <id>JavaScript</id>
+              </State>
+              <State>
+                <id>Potentially confusing code constructsJavaScript</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>AngularJS</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+        <property name="JavaScriptPreferStrict" value="false" />
+        <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>$USER_HOME$/.subversion</configuration>
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
     </defaultProject>
   </component>
 </application>
